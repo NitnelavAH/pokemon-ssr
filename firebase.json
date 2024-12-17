@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/pokemon-ssr/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
